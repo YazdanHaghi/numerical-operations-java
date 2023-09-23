@@ -27,5 +27,5 @@ Perform matrix multiplication with user-defined matrices.
 
 
    git clone https://github.com/YazdanHaghi/numerical-operations-java.git
-   cd numerical-operations-java
+
 
